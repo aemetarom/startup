@@ -1,2 +1,2 @@
 # startup
-[Test](https://aemetarom.github.io/startup/)
+https://aemetarom.github.io/startup/
